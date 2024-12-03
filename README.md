@@ -36,3 +36,7 @@ Install the required libraries using:
 ```bash
 pip install -r requirements.txt
 ```
+Run the script
+```bash
+python3 main.py
+```
